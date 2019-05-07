@@ -1,0 +1,1 @@
+C:\Users\Student_VR\Documents\GitHub\TabletopVR\VRTabletop\obj\Debug\Oculus.VR.Scripts.Editor.csprojResolveAssemblyReference.cache
